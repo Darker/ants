@@ -1,0 +1,24 @@
+﻿
+
+at
+  //if a change in position is detected perform the necessary update
+
+  Camera.mainCamera is obsolete. Replace with Camera.main
+
+at 
+  destination.x -= Input.GetAxis("Mouse Y") * ResourceManager.RotateAmount;
+
+  Undefined RotateAmount
+
+Part 5
+
+  - The object requires Mesh Collider to be selectable.
+
+
+  //Coloring:
+
+  //Lower than purple
+  Math.min(x, Math.pow(Math.abs(x-0.82),8)*5000000+0.3)
+  //Distribution of light/saturation 
+  hue = 0.8
+  x-(hue/0.4)*(1/(sqrt(2pi)) * Math.pow(e, Math.pow(-(x-hue),2)/2*100))

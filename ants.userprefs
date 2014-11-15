@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\WorldObject\Actions\SpawnEgg.cs">
+    <Files>
+      <File FileName="Assets\Player\HUD\HUD.cs" Line="1" Column="1" />
+      <File FileName="Assets\WorldObject\Actions\SpawnEgg.cs" Line="1" Column="1" />
+      <File FileName="Assets\WorldObject\Action.cs" Line="1" Column="1" />
+      <File FileName="Assets\WorldObject\Unit\Unit.cs" Line="1" Column="1" />
+      <File FileName="Assets\WorldObject\WorldObject.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
